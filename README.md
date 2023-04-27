@@ -2,7 +2,7 @@
 a nice app that created by react and pure css
 
 ## Demo
-<a href='meetup-project-3b48b6.netlify.app'>meetup-project</a>
+<a href='https://meetup-project-3b48b6.netlify.app'>meetup-project</a>
 
 
 
