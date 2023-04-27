@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Meetup Project
+a nice app that created by react and pure css
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Demo
+meetup-project-3b48b6.netlify.app
+
+
 
 ## Available Scripts
 
